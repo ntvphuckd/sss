@@ -1,1 +1,1 @@
-Vũ trụ 1:139.59.250.125:14445:13:wolfteam:1,Vũ trụ 2:192.168.123.16:14445:13:wolfteam:1
+Vũ trụ 1:server1.birong.vn:14445:13:wolfteam:1,Vũ trụ 2:192.168.123.16:14445:13:wolfteam:1
